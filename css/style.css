@@ -12,7 +12,7 @@
 }
 
 .pad-20-10{
-    padding: 25px 10px;
+    padding: 25px 20px;
 }
 
 .pad-left20{
@@ -27,6 +27,21 @@
     margin-bottom: 20px;
 }
 
+.yellow-text{
+    background-color: yellow;
+}
+
+.text-blue{
+    color: rgb(27, 92, 139);
+}
+
+.text-white{
+    color: aliceblue;
+}
+
+.back-r-blue{
+    background-color: rgb(117, 169, 201);
+}
 
 
 /* TAG */
@@ -34,4 +49,21 @@
 h1{
     color: aliceblue;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+main{
+    padding-left: 20px;
+}
+
+th{
+    background-color: rgb(70, 112, 191);
+}
+
+/* ID */
+#foto1{
+    width: 410px;
+}
+
+#foto2{
+    width: 350px;
 }
