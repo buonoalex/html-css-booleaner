@@ -10,3 +10,18 @@
 .text-clay{
     background-color: rgb(154, 217, 238);
 }
+
+.pad-20-10{
+    padding: 25px 10px;
+}
+
+.pad-left30{
+    padding-left: 30px;
+}
+
+/* TAG */
+
+h1{
+    color: aliceblue;
+    border-color: black;
+}
