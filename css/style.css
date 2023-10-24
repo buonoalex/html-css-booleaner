@@ -1,0 +1,12 @@
+/* RESET */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Classi */ 
+
+.text-clay{
+    background-color: rgb(154, 217, 238);
+}
