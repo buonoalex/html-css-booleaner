@@ -43,6 +43,18 @@
     background-color: rgb(117, 169, 201);
 }
 
+.margtop25{
+
+    margin-top: 25px;
+}
+
+.back-black{
+    background-color: black;
+}
+
+.fontss{
+    font-size: smaller;
+}
 
 /* TAG */
 
@@ -57,6 +69,21 @@ main{
 
 th{
     background-color: rgb(70, 112, 191);
+}
+
+h5{
+    text-align: center;
+    color: aliceblue;
+    
+}
+
+footer{
+    background-color: rgb(46, 46, 110);
+    height: 50px;
+}
+
+td{
+    padding-right: 100px;
 }
 
 /* ID */
