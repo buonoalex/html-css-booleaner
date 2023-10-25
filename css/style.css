@@ -48,12 +48,18 @@
     margin-top: 25px;
 }
 
+.backphoto{
+    background-image: url(../img/pattern.png);
+    background-size: 400px;
+}
+
 
 .fontss{
     font-size: smaller;
 }
 
 /* TAG */
+
 
 h1{
     color: aliceblue;
@@ -62,6 +68,8 @@ h1{
 
 main{
     padding-left: 20px;
+    width: 70%;
+    margin: 0 auto;
 }
 
 th{
